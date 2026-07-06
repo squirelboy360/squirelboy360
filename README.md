@@ -1,1 +1,1 @@
-<img src="./Welcome.gif">
+Kernel panic: Attempted to compile on Friday
