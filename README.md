@@ -1,1 +1,1 @@
-Kernel panic: Attempted to compile on Friday
+Kernel panic: fatal exception
